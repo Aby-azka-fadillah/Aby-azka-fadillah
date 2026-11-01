@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aby-azka-fadillah&label=Profile%20views&color=0e75b6&style=flat" alt="aby-azka-fadillah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aby-azka-fadillah" alt="aby-azka-fadillah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aby-azka-fadillah&theme=flat&no-frame=true&row=1&column=7" alt="aby-azka-fadillah" /></a> </p>
 
 - 🔭 I’m currently student on **SMK Negeri 17 Jakarta**
 
