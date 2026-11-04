@@ -8,12 +8,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aby-azka-fadillah&label=Profile%20views&color=0e75b6&style=flat" alt="aby-azka-fadillah" /> </p>
 
 <p align="center">
-  <img src="choso-red-aesthetic-3840x2160-26047.jpg" alt="Choso" width="100%"/>
+  <img src="Screenshot From 2026-11-04 08-43-41.png" alt="Web" width="100%"/>
 </p>
 
 - 🔭 I’m currently student on **SMK Negeri 17 Jakarta**
 
-- 🌱 I’m currently learning **Laravel and Node.JS**
+- 🌱 I’m currently learning **Laravel and Node.JS**s
 
 - 🤝 I’m looking for help with **Web development**
 
