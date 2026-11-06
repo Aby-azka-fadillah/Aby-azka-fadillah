@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aby-azka-fadillah&label=Profile%20views&color=0e75b6&style=flat" alt="aby-azka-fadillah" /> </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="Screenshot From 2026-11-04 08-43-41.png" alt="Web" width="100%"/>
-</p>
+</p> -->
 
 - 🔭 I’m currently student on **SMK Negeri 17 Jakarta**
 
